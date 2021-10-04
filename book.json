@@ -1,0 +1,15 @@
+{
+    "theme": "mina",
+    "title": "简约商业思维",
+    "plugins": [
+        "upyun"
+    ],
+    "pluginsConfig": {
+        "upyun": {
+            "bucket": "cicbook",
+            "username": "thinkbookadmin",
+            "password": "@encrypted:U2FsdGVkX1\/VNsqCQe7g2bY9Ksg23to20CupPaJB1fe0\/GqgRra6N0OPd73KEjl2CVZ4wxWlPxdsdTkrzpT+7w==",
+            "path": "jianyue"
+        }
+    }
+}
